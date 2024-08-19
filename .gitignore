@@ -1,0 +1,6 @@
+# Ignorar archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar dependencias de Node.js
+node_modules/

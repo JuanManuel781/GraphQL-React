@@ -1,0 +1,25 @@
+{
+  "name": "graphql-react",
+  "version": "1.0.0",
+  "description": "GraphQL React",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanManuel781/GraphQL-React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanManuel781/GraphQL-React/issues"
+  },
+  "homepage": "https://github.com/JuanManuel781/GraphQL-React#readme",
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.9.0"
+  }
+}
